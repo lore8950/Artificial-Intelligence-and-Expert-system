@@ -25,4 +25,9 @@ Make sure Python is installed on your system.
 
 ```bash
 python3 main.py
-
+day01:
+- “Basic Calculator Program (Addition, Subtraction, Multiplication)”
+- “Student Result (Pass/Fail) Checking Program”
+- “Area of a Circle using User Input”
+- “Celsius to Fahrenheit Conversion Program”
+- “Maximum of Three Numbers (if–elif–else)”
