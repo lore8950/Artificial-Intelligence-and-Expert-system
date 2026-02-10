@@ -64,3 +64,10 @@ python3 main.py
 - User Defined Function using for loop.
 - User Defined Function with Loop & Condition.
 - Math Module Functions Demonstration.
+
+## 📅 Day 04 Progress
+
+## Day 04: Added Python mini project
+- Missionaries and Cannibals – Python Solution in (BFS)
+- Random Number Generator Program.
+- Calculator Functions Program
