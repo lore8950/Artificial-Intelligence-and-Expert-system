@@ -52,6 +52,8 @@ python3 main.py
 - Python List Operations / List Manipulation
 - Python List Operations (List Manipulation)
 
+## 📅 Day 03 Progress
+
 ## Day 03: Added Python class practice
 - Basic List Operations in Python.
 - For Loop with If-Else (Number Classification)
