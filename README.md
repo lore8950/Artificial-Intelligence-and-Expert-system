@@ -70,4 +70,13 @@ python3 main.py
 ## Day 04: Added Python mini project
 - Missionaries and Cannibals – Python Solution in (BFS)
 - Random Number Generator Program.
-- Calculator Functions Program
+- Calculator Functions Program.
+- Data Preprocessing using NumPy & Scikit-learn.
+- Graph Visualization problem.
+
+##Function Plotting Problem
+- Plot of y = sin(x)
+- Plot of y = tan(x)
+- Plot of y = cos(x)
+- Plot of y = x
+- Plot of x² + y² = r² (Circle)
