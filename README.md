@@ -80,3 +80,8 @@ python3 main.py
 - Plot of y = cos(x)
 - Plot of y = x
 - Plot of x² + y² = r² (Circle)
+
+## 📅 Day 05 Progress
+- Graph Traversal Problem (BFS)
+- Graph Traversal Problem (DFS)
+- 
